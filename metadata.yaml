@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '43309'
     url: http://www.gutenberg.org/2009/agents/43309
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45469#The-Two-First-Centuries-of-Florentine-HistoryThe-Republic-and-Parties-at-the-Time-of-Dante.-F_
 gutenberg_issued: '2014-04-24'
 gutenberg_type: Text
 identifiers:
